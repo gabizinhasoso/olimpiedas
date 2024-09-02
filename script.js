@@ -6,11 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "A inteligência artificial (IA) é um conjunto de tecnologias que permitem aos computadores executar uma variedade de funções avançadas. Quais são as implicações da IA na privacidade dos dados?",
+        enunciado: "Qual o mascote oficial dos Jogos Olímpicos de Paris 2024",
         alternativas: [
             {
-                texto: "A IA, embora possa desempenhar um papel fundamental na detecção e prevenção de ameaças à segurança também acaba divulgando os dados inseridos por outros usuários da plataforma",
-                afirmacao: "Você conhece o futuro tecnológico, porém é bem cauteloso"
+                texto: "O mascote de Paris 2024 é a Phryge Olímpica. A mascote se baseia nos pequenos gorros tradicionais da Frígia, nos quais seu formato foi inspirado",
+                afirmacao: "Excelente,o nome do mascote foi como simbolo da liberdade"
             },
             {
                 texto: "Também pode ser usada como uma ferramenta para a invasão de privacidade.",
